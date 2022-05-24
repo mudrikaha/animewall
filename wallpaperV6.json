@@ -1,17 +1,17 @@
 {
- "Ads": [
+  "Ads": [
     {
-      "select_main_ads": "UNITY",
-      "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "Banner_Android",
-      "main_ads_intertitial":"Interstitial_Android",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_native_ads_Admob_or_applovin":"",
       "backup_native_ads_Admob_or_applovin":"",
-      "backup_ads_banner":"Banner_Android",
-      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"4764243",
-      "initialize_sdk_backup_ads":"204860912",
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -19,7 +19,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":"2"
+      "on_off_category":""
     }
   ],
   "More":
@@ -44,192 +44,192 @@
     }
   ],
 
-    "Categories": [
+  "Categories": [
     {
       "id": 1,
-      "name_category": "Kimetsu No Yaiba",
-      "image": "https://i.pinimg.com/236x/d5/90/55/d590552774e04a1ccba578dedb1ae72b.jpg"
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Naruto",
-      "image": "https://i.pinimg.com/236x/ae/30/fd/ae30fd164ff183c6be165211cb88798c.jpg"
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Avatar",
-      "image": "https://i.pinimg.com/236x/8f/80/7e/8f807eda7e26eb9b879b4f9e56755263.jpg"
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
 
     }
   ],
 
-  "Data":
+    "Data":
   [
     {
       "id":1,
       "name_category": "Kimetsu No Yaiba",
       "title":"sdfsdf",
-      "image":"https://i.pinimg.com/originals/d5/90/55/d590552774e04a1ccba578dedb1ae72b.jpg"
+      "image":"https://i.pinimg.com/564x/d5/90/55/d590552774e04a1ccba578dedb1ae72b.jpg"
     },
     {
       "id": 2,
       "name_category": "Kimetsu No Yaiba",
       "title": "sdfsdfff",
-      "image": "https://i.pinimg.com/originals/6e/65/e3/6e65e3f52f08057dc02b4f641600a7ec.jpg"
+      "image": "https://i.pinimg.com/564x/6e/65/e3/6e65e3f52f08057dc02b4f641600a7ec.jpg"
     },
     {
       "id":3,
       "name_category": "Kimetsu No Yaiba",
       "title":"sdfsdfesdf",
-      "image":"https://i.pinimg.com/originals/68/a1/85/68a1852cfb63650152bd92948365cb3b.jpg"
+      "image":"https://i.pinimg.com/564x/68/a1/85/68a1852cfb63650152bd92948365cb3b.jpg"
     },
     {
       "id":4,
       "name_category": "Kimetsu No Yaiba",
       "title":"sdfesdf",
-      "image":"https://i.pinimg.com/originals/a3/52/ae/a352ae95fe194696ec36768fbedeffd3.jpg"
+      "image":"https://i.pinimg.com/564x/a3/52/ae/a352ae95fe194696ec36768fbedeffd3.jpg"
     }
   ,
     {
       "id":5,
       "name_category": "Kimetsu No Yaiba",
       "title":"sgfrghdsfg",
-      "image":"https://i.pinimg.com/originals/f0/d3/87/f0d38703a89163cb7ace8e3743a4749d.jpg"
+      "image":"https://i.pinimg.com/564x/f0/d3/87/f0d38703a89163cb7ace8e3743a4749d.jpg"
     },
     {
       "id":6,
       "name_category": "Kimetsu No Yaiba",
       "title":"Super dfessdews",
-      "image":"https://i.pinimg.com/originals/1a/35/a1/1a35a11422bc3ff994ca772f8632481d.jpg"
-    }
+      "image":"https://i.pinimg.com/564x/1a/35/a1/1a35a11422bc3ff994ca772f8632481d.jpg"
+    },
 	{
       "id":7,
       "name_category": "Kimetsu No Yaiba",
       "title":"adfcsxca Avatar",
-      "image":"https://i.pinimg.com/originals/3e/9a/c8/3e9ac836cbd07932c599e70dd260cd4e.jpg"
-    }
+      "image":"https://i.pinimg.com/564x/3e/9a/c8/3e9ac836cbd07932c599e70dd260cd4e.jpg"
+    },
 	{
       "id":8,
       "name_category": "Kimetsu No Yaiba",
       "title":"asdaxcdeasfe Avatar",
-      "image":"https://i.pinimg.com/originals/9e/ed/3b/9eed3b9b0172e41d5cd641ccec75cc78.jpg"
-    }
+      "image":"https://i.pinimg.com/564x/9e/ed/3b/9eed3b9b0172e41d5cd641ccec75cc78.jpg"
+    },
 	{
       "id":9,
       "name_category": "Kimetsu No Yaiba",
       "title":"Super sdfxzc",
-      "image":"https://i.pinimg.com/originals/41/f4/26/41f426b4cb4d4d45b3fc2d5e15783bd4.jpg"
-    }
+      "image":"https://i.pinimg.com/564x/41/f4/26/41f426b4cb4d4d45b3fc2d5e15783bd4.jpg"
+    },
 	{
       "id":10,
       "name_category": "Naruto",
       "title":"Super fcdsvdz",
       "image":"https://i.pinimg.com/564x/ae/30/fd/ae30fd164ff183c6be165211cb88798c.jpg"
-    }
+    },
 	{
       "id":11,
       "name_category": "Naruto",
       "title":"Super efdfcesz",
       "image":"https://i.pinimg.com/564x/91/6b/4e/916b4e0ebeaff8dabbe05042cb0a4f95.jpg"
-    }
+    },
 	{
       "id":12,
       "name_category": "Naruto",
       "title":"asdasdasd Avatar",
       "image":"https://i.pinimg.com/564x/72/c2/53/72c253d185979e486df9d1d38375fb0b.jpg"
-    }
+    },
 	{
       "id":13,
       "name_category": "Naruto",
       "title":"sdfsdfxcsa Avatar",
       "image":"https://i.pinimg.com/564x/8a/13/3f/8a133fdd6f3afdb504af925301feeff0.jpg"
-    }
+    },
 	{
       "id":14,
       "name_category": "Naruto",
       "title":"okikikk Avatar",
       "image":"https://i.pinimg.com/564x/f2/c5/25/f2c525360c8bf11c78bc353b9f570402.jpg"
-    }
+    },
 	{
       "id":15,
       "name_category": "Naruto",
       "title":"jifjirejfijrfijr Avatar",
       "image":"https://i.pinimg.com/564x/5b/7e/6d/5b7e6dfac4a37583a25a6ece2d323de5.jpg"
-    }
+    },
 	{
       "id":16,
       "name_category": "Naruto",
       "title":"ikikjfkjifkidk Avatar",
       "image":"https://i.pinimg.com/564x/e2/35/c0/e235c00648c76cb04d11eeffb54339fe.jpg"
-    }
+    },
 	{
       "id":17,
       "name_category": "Naruto",
       "title":"pokkkjmfdm Avatar",
       "image":"https://i.pinimg.com/564x/5b/7d/85/5b7d85e20b3ced22894b31408929d6a3.jpg"
-    }
+    },
 	{
       "id":18,
       "name_category": "Naruto",
       "title":"pokelkdoihc Avatar",
       "image":"https://i.pinimg.com/750x/23/14/6c/23146c3b9bc5902919f2c987a2ba87c5.jpg"
-    }
+    },
 	{
       "id":19,
       "name_category": "Naruto",
       "title":"kjlfjdsjfa Avatar",
       "image":"https://i.pinimg.com/564x/0b/40/24/0b40245bbcfe5477422a25d28c12a9f1.jpg"
-    }
+    },
 	{
       "id":20,
       "name_category": "Naruto",
       "title":"Super Avkfjvlkdmflkvdatar",
       "image":"https://i.pinimg.com/736x/f5/aa/b3/f5aab3ed64ae05205a17d31b8e522490.jpg"
-    }
+    },
 	{
       "id":21,
       "name_category": "Naruto",
       "title":"Super Avatjerkrenvckar",
       "image":"https://i.pinimg.com/564x/cf/1e/94/cf1e9440e1227a0bf5d0d6eaef46a0de.jpg"
-    }
+    },
 	{
       "id":22,
       "name_category": "Naruto",
       "title":"Super Avataaaasar",
       "image":"https://i.pinimg.com/564x/14/36/79/14367991f1abec6b0cad78efd8cf5282.jpg"
-    }
+    },
 	{
       "id":23,
       "name_category": "Naruto",
       "title":"Super Avatsdsssfcvvar",
       "image":"https://i.pinimg.com/564x/37/f4/fd/37f4fd3167c3401ebc47818610f7aec3.jpg"
-    }
+    },
 	{
       "id":24,
       "name_category": "Naruto",
       "title":"Super Avdfgfvvdfgatar",
       "image":"https://i.pinimg.com/564x/6c/91/85/6c9185ca295ac662f398dd3615728ec6.jpg"
-    }
+    },
 	{
       "id":25,
       "name_category": "Naruto",
       "title":"Super Agffgfgvatar",
       "image":"https://i.pinimg.com/564x/16/ea/8f/16ea8f53ea24b60a18218b4e6e3cdd8e.jpg"
-    }
+    },
 	{
       "id":26,
       "name_category": "Naruto",
       "title":"Super Avatfgsdfgar",
       "image":"https://i.pinimg.com/564x/24/eb/d1/24ebd129ffa4012ecfbdf62d31e181bd.jpg"
-    }
+    },
 	{
       "id":27,
       "name_category": "Naruto",
       "title":"Super Avatfffgar",
       "image":"https://i.pinimg.com/564x/e7/6a/10/e76a10bafb669013daa1fb055a0e7fe4.jpg"
-    }
+    },
 	{
       "id":28,
       "name_category": "Naruto",
@@ -241,133 +241,133 @@
       "name_category": "Naruto",
       "title":"Super Avatsssar",
       "image":"https://i.pinimg.com/564x/19/d7/83/19d783a4b94f48fc47e4fd6ca108a5de.jpg"
-    }
+    },
 	{
       "id":30,
       "name_category": "Avatar",
       "title":"Super Avxxxxatar",
       "image":"https://i.pinimg.com/564x/8f/80/7e/8f807eda7e26eb9b879b4f9e56755263.jpg"
-    }
+    },
 	{
       "id":31,
       "name_category": "Avatar",
       "title":"Superwerx Avatar",
       "image":"https://i.pinimg.com/564x/2c/09/fe/2c09fe741d00475d501680a173947818.jpg"
-    }
+    },
 	{
       "id":32,
       "name_category": "Avatar",
       "title":"Suffffdsdper Avatar",
       "image":"https://i.pinimg.com/564x/7e/e6/ac/7ee6ac54bfd22ce1878a566c37312f52.jpg"
-    }
+    },
 	{
       "id":33,
       "name_category": "Avatar",
       "title":"Superdfddff Avatar",
       "image":"https://i.pinimg.com/564x/a7/f8/40/a7f8405b93c9136eecc50043011237f1.jpg"
-    }
+    },
 	{
       "id":34,
       "name_category": "Avatar",
       "title":"Supefdssr Avatar",
       "image":"https://i.pinimg.com/564x/fe/82/5b/fe825bd1d90e874265f464bdc59b263a.jpg"
-    }
+    },
 	{
       "id":35,
       "name_category": "Avatar",
       "title":"Supebbbggr Avatar",
       "image":"https://i.pinimg.com/564x/2e/8c/97/2e8c9742b2ce1cd9b82a00aa2201d9c6.jpg"
-    }
+    },
 	{
       "id":36,
       "name_category": "Avatar",
       "title":"Supehhggbr Avatar",
       "image":"https://i.pinimg.com/564x/13/91/65/1391655f057f946c0b16d247430b420e.jpg"
-    }
+    },
 	{
       "id":37,
       "name_category": "Avatar",
       "title":"Sunnmhhper Avatar",
       "image":"https://i.pinimg.com/564x/2f/1d/3a/2f1d3a770df8257fa14ad1a251fd0716.jpg"
-    }
+    },
 	{
       "id":38,
       "name_category": "Avatar",
       "title":"Sueeedfper Avatar",
       "image":"https://i.pinimg.com/564x/40/9a/86/409a86b3f9670e9fa3b404800d9dba57.jpg"
-    }
+    },
 	{
       "id":39,
       "name_category": "Avatar",
       "title":"Supettyyrr Avatar",
       "image":"https://i.pinimg.com/564x/c2/a3/92/c2a392769c896a8b824cf2683bb40e10.jpg"
-    }
+    },
 	{
       "id":40,
       "name_category": "Avatar",
       "title":"Srteuper Avatar",
       "image":"https://i.pinimg.com/564x/4e/18/f8/4e18f86d6157aacbc3e0bfed34618132.jpg"
-    }
+    },
 	{
       "id":41,
       "name_category": "Avatar",
       "title":"Supeerfdsar Avatar",
       "image":"https://i.pinimg.com/564x/9b/b6/af/9bb6afdbf7f0911e25aa56ebf11ed2c7.jpg"
-    }
+    },
 	{
       "id":42,
       "name_category": "Avatar",
       "title":"Supwqerqwerer Avatar",
       "image":"https://i.pinimg.com/564x/e1/25/ca/e125cafad7286453044aa32abeff4227.jpg"
-    }
+    },
 	{
       "id":43,
       "name_category": "Avatar",
       "title":"Superererer Avatar",
       "image":"https://i.pinimg.com/564x/70/75/3c/70753cab4a8da72cb6ac7b8eb37fee62.jpg"
-    }
+    },
 	{
       "id":44,
       "name_category": "Avatar",
       "title":"Supeeeer Avatar",
       "image":"https://i.pinimg.com/564x/80/4e/24/804e245c033af0ed9c9ef5f8dbede118.jpg"
-    }
+    },
 	{
       "id":45,
       "name_category": "Avatar",
       "title":"Supwwwwer Avatar",
       "image":"https://i.pinimg.com/564x/58/0d/bc/580dbc28457faa2e822e06d828442005.jpg"
-    }
+    },
 	{
       "id":46,
       "name_category": "Avatar",
       "title":"Supefrsfeqqr Avatar",
       "image":"https://i.pinimg.com/564x/ac/8e/a4/ac8ea41a9ff58497293ba5884f0aa573.jpg"
-    }
+    },
 	{
       "id":47,
       "name_category": "Avatar",
       "title":"Supfrwfsder Avatar",
       "image":"https://i.pinimg.com/564x/54/0d/bd/540dbddc0734e800213fa7eaceb70b45.jpg"
-    }
+    },
 	{
       "id":48,
       "name_category": "Avatar",
       "title":"Supeasdwr Avatar",
       "image":"https://i.pinimg.com/564x/34/90/19/349019c93526df5c632ea42814e84e8f.jpg"
-    }
+    },
 	{
       "id":49,
       "name_category": "Avatar",
       "title":"Supersdasd Avatar",
       "image":"https://i.pinimg.com/736x/7f/70/c9/7f70c912810a645e0de1d981130d8c92.jpg"
-    }
+    },
 	{
       "id":50,
       "name_category": "Avatar",
       "title":"Super fdasdAvatar",
       "image":"https://i.pinimg.com/564x/e5/fc/07/e5fc07ffdc380908b4a53f8cdece1093.jpg"
-    }
+    },
 
   ]
 }
