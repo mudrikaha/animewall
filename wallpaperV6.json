@@ -19,7 +19,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"2"
     }
   ],
   "More":
@@ -108,28 +108,28 @@
     {
       "id":7,
       "name_category": "Animal",
-      "title":"Dog1",
+      "title":"Dog",
       "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
     }
     ,
     {
       "id":8,
       "name_category": "Animal",
-      "title":"Dog2",
+      "title":"Dog",
       "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
     }
     ,
     {
       "id":9,
       "name_category": "Animal",
-      "title":"Dog3",
+      "title":"Dog",
       "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
     }
     ,
     {
       "id":10,
       "name_category": "Animal",
-      "title":"Dog4",
+      "title":"Dog",
       "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
     }
   ]
